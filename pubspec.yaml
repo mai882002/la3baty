@@ -80,5 +80,8 @@ flutter:
     - family: ArchivoBlack
       fonts:
         - asset: fonts/ArchivoBlack-Regular.ttf
+    - family: Sevillana
+      fonts:
+        - asset: fonts/Sevillana-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

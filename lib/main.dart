@@ -20,11 +20,11 @@ void main() {
             appBar: AppBar(
               title: Center(
                 child: Text(
-                  'تطابق صوره',
+                  'Image Matching',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 30.0,
-                    fontFamily: 'Amiri',
+                    fontFamily: 'Sevillana',
                   ),
                 ),
               ),
@@ -64,7 +64,7 @@ class _ImagepageState extends State<Imagepage> {
             fontFamily: 'ArchivoBlack',
             fontSize: 40.0,
             fontWeight: FontWeight.bold,
-            color: Color.fromARGB(255, 226, 29, 29),
+            color: Color.fromARGB(255, 219, 131, 131),
           ),
         ),
         SizedBox(
